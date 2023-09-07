@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b2253d51b559754bb9e64127dc1ea04, type: 3}
+  m_Name: Bonsai
+  m_EditorClassIdentifier: 
+  Name: Bonsai
+  Image: {fileID: 21300000, guid: a223de2f9461f8f4b8450fed9a0454f8, type: 3}
+  Description: Bonsai Tree
+  Item3DModel: {fileID: 1638190727221414114, guid: f6ca63fae8d081f4fbe7744b0e71dd5e,
+    type: 3}
